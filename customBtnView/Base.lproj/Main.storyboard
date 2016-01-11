@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="7706" systemVersion="14F27" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" initialViewController="8Sv-l3-MqY">
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="9046" systemVersion="14F27" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" initialViewController="8Sv-l3-MqY">
     <dependencies>
-        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="7703"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="9035"/>
         <capability name="Alignment constraints with different attributes" minToolsVersion="5.1"/>
         <capability name="Constraints to layout margins" minToolsVersion="6.0"/>
         <capability name="Constraints with non-1.0 multipliers" minToolsVersion="5.1"/>
@@ -286,7 +286,8 @@
                                                             <exclude reference="lBS-pz-ISG"/>
                                                         </mask>
                                                     </variation>
-                                                    <variation key="widthClass=compact">
+                                                    <variation key="widthClass=compact" misplaced="YES">
+                                                        <rect key="frame" x="187" y="13" width="40" height="40"/>
                                                         <mask key="constraints">
                                                             <include reference="10T-yb-Wfh"/>
                                                             <include reference="lBS-pz-ISG"/>
@@ -306,7 +307,8 @@
                                                             <exclude reference="jvc-ZM-rBg"/>
                                                         </mask>
                                                     </variation>
-                                                    <variation key="widthClass=compact">
+                                                    <variation key="widthClass=compact" misplaced="YES">
+                                                        <rect key="frame" x="69" y="13" width="96" height="40"/>
                                                         <mask key="constraints">
                                                             <include reference="jvc-ZM-rBg"/>
                                                         </mask>
@@ -325,7 +327,8 @@
                                                             <exclude reference="fVJ-4O-MFG"/>
                                                         </mask>
                                                     </variation>
-                                                    <variation key="widthClass=compact">
+                                                    <variation key="widthClass=compact" misplaced="YES">
+                                                        <rect key="frame" x="117" y="13" width="60" height="40"/>
                                                         <mask key="constraints">
                                                             <include reference="fVJ-4O-MFG"/>
                                                         </mask>
@@ -346,7 +349,8 @@
                                                             <exclude reference="zFv-aK-EIP"/>
                                                         </mask>
                                                     </variation>
-                                                    <variation key="widthClass=compact">
+                                                    <variation key="widthClass=compact" misplaced="YES">
+                                                        <rect key="frame" x="0.0" y="53" width="240" height="151"/>
                                                         <mask key="constraints">
                                                             <exclude reference="hJg-Gf-lbx"/>
                                                             <exclude reference="zFv-aK-EIP"/>
