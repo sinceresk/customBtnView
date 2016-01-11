@@ -8,7 +8,13 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
+@interface ViewController : UIViewController<UITableViewDataSource,UITableViewDelegate>{
+
+    NSInteger rowCount;
+
+}
+
+@property (weak, nonatomic) IBOutlet UITableView *mainTableView;
 
 
 @end

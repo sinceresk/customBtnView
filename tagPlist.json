@@ -1,0 +1,640 @@
+[
+  {
+    "fid" : 34,
+    "forum_name" : "金毛寻回犬俱乐部",
+    "typelist" : [
+      {
+        "typeid" : 1651,
+        "typename" : "◆快乐寄养"
+      },
+      {
+        "typeid" : 135,
+        "typename" : "版主公告"
+      },
+      {
+        "typeid" : 137,
+        "typename" : "经验分享"
+      },
+      {
+        "typeid" : 138,
+        "typename" : "咨询求助"
+      },
+      {
+        "typeid" : 139,
+        "typename" : "爱宠图集"
+      },
+      {
+        "typeid" : 142,
+        "typename" : "我的DIY"
+      },
+      {
+        "typeid" : 143,
+        "typename" : "七嘴八舌"
+      },
+      {
+        "typeid" : 144,
+        "typename" : "驯养课堂"
+      },
+      {
+        "typeid" : 1427,
+        "typename" : "活动报告"
+      }
+    ]
+  },
+  {
+    "fid" : 9,
+    "forum_name" : "狗狗健康",
+    "typelist" : [
+      {
+        "typeid" : 820,
+        "typename" : "其他话题"
+      },
+      {
+        "typeid" : 707,
+        "typename" : "健康讲堂"
+      },
+      {
+        "typeid" : 708,
+        "typename" : "健康新闻"
+      },
+      {
+        "typeid" : 480,
+        "typename" : "求助咨询"
+      },
+      {
+        "typeid" : 481,
+        "typename" : "经验分享"
+      },
+      {
+        "typeid" : 482,
+        "typename" : "版面公告"
+      }
+    ]
+  },
+  {
+    "fid" : 44,
+    "forum_name" : "铃铛圈",
+    "typelist" : [
+      {
+        "typeid" : 1548,
+        "typename" : "版主公告"
+      },
+      {
+        "typeid" : 1549,
+        "typename" : "知识分享"
+      },
+      {
+        "typeid" : 1721,
+        "typename" : "版内活动"
+      },
+      {
+        "typeid" : 1551,
+        "typename" : "狗狗趣闻"
+      },
+      {
+        "typeid" : 1557,
+        "typename" : "成长故事"
+      },
+      {
+        "typeid" : 1554,
+        "typename" : "休闲娱乐"
+      },
+      {
+        "typeid" : 1556,
+        "typename" : "心情故事"
+      },
+      {
+        "typeid" : 1553,
+        "typename" : "畅所欲言"
+      },
+      {
+        "typeid" : 1552,
+        "typename" : "狗民讨论"
+      },
+      {
+        "typeid" : 1550,
+        "typename" : "问题求助"
+      },
+      {
+        "typeid" : 1555,
+        "typename" : "快乐寄养"
+      }
+    ]
+  },
+  {
+    "fid" : 133,
+    "forum_name" : "活动专区",
+    "typelist" : [
+      {
+        "typeid" : 1225,
+        "typename" : "专题活动"
+      },
+      {
+        "typeid" : 1728,
+        "typename" : "试用报告"
+      },
+      {
+        "typeid" : 1229,
+        "typename" : "奖品展示"
+      },
+      {
+        "typeid" : 1726,
+        "typename" : "提问版主"
+      },
+      {
+        "typeid" : 1727,
+        "typename" : "爱宠日常"
+      },
+      {
+        "typeid" : 1729,
+        "typename" : "版务公告"
+      },
+      {
+        "typeid" : 1730,
+        "typename" : "吐了个槽"
+      }
+    ]
+  },
+  {
+    "fid" : 29,
+    "forum_name" : "边境牧羊犬俱乐部",
+    "typelist" : [
+      {
+        "typeid" : 302,
+        "typename" : "❤七嘴八舌"
+      },
+      {
+        "typeid" : 121,
+        "typename" : "❤版主公告"
+      },
+      {
+        "typeid" : 1657,
+        "typename" : "❤快乐寄养"
+      },
+      {
+        "typeid" : 122,
+        "typename" : "❤爱宠图集"
+      },
+      {
+        "typeid" : 124,
+        "typename" : "❤咨询求助"
+      },
+      {
+        "typeid" : 125,
+        "typename" : "❤经验分享"
+      },
+      {
+        "typeid" : 1444,
+        "typename" : "❤驯养课堂"
+      },
+      {
+        "typeid" : 1445,
+        "typename" : "❤新人报到"
+      },
+      {
+        "typeid" : 1446,
+        "typename" : "❤活动参与"
+      },
+      {
+        "typeid" : 1731,
+        "typename" : "❤生活日常"
+      }
+    ]
+  },
+  {
+    "fid" : 73,
+    "forum_name" : "拉布拉多俱乐部",
+    "typelist" : [
+      {
+        "typeid" : 1324,
+        "typename" : "咨询求助"
+      },
+      {
+        "typeid" : 1592,
+        "typename" : "图片视频"
+      },
+      {
+        "typeid" : 1652,
+        "typename" : "◆快乐寄养"
+      },
+      {
+        "typeid" : 117,
+        "typename" : "经验分享"
+      },
+      {
+        "typeid" : 1429,
+        "typename" : "驯养课堂"
+      },
+      {
+        "typeid" : 30,
+        "typename" : "七嘴八舌"
+      },
+      {
+        "typeid" : 112,
+        "typename" : "出游专区"
+      },
+      {
+        "typeid" : 113,
+        "typename" : "日常故事"
+      },
+      {
+        "typeid" : 114,
+        "typename" : "新人报到"
+      },
+      {
+        "typeid" : 115,
+        "typename" : "版主公告"
+      },
+      {
+        "typeid" : 1430,
+        "typename" : "我的DIY"
+      }
+    ]
+  },
+  {
+    "fid" : 38,
+    "forum_name" : "山西狗民俱乐部",
+    "typelist" : [
+      {
+        "typeid" : 1414,
+        "typename" : "聚会出游"
+      },
+      {
+        "typeid" : 1415,
+        "typename" : "家有爱宠"
+      },
+      {
+        "typeid" : 1416,
+        "typename" : "经验分享"
+      },
+      {
+        "typeid" : 1417,
+        "typename" : "寻狗＆领养"
+      },
+      {
+        "typeid" : 1418,
+        "typename" : "显摆秀场"
+      },
+      {
+        "typeid" : 1419,
+        "typename" : "活动报告"
+      },
+      {
+        "typeid" : 1420,
+        "typename" : "娱乐休闲"
+      },
+      {
+        "typeid" : 1421,
+        "typename" : "同城互助"
+      },
+      {
+        "typeid" : 1422,
+        "typename" : "咨询求助"
+      },
+      {
+        "typeid" : 1168,
+        "typename" : "版务公告"
+      },
+      {
+        "typeid" : 1703,
+        "typename" : "◆快乐寄养"
+      }
+    ]
+  },
+  {
+    "fid" : 52,
+    "forum_name" : "北京狗民俱乐部",
+    "typelist" : [
+      {
+        "typeid" : 206,
+        "typename" : "版务公告"
+      },
+      {
+        "typeid" : 207,
+        "typename" : "咨询求助"
+      },
+      {
+        "typeid" : 1423,
+        "typename" : "宠物百科"
+      },
+      {
+        "typeid" : 209,
+        "typename" : "娱乐休闲"
+      },
+      {
+        "typeid" : 210,
+        "typename" : "新人报道"
+      },
+      {
+        "typeid" : 214,
+        "typename" : "天国信使"
+      },
+      {
+        "typeid" : 211,
+        "typename" : "家有爱宠"
+      },
+      {
+        "typeid" : 212,
+        "typename" : "同城互助"
+      },
+      {
+        "typeid" : 1725,
+        "typename" : "问题探讨"
+      },
+      {
+        "typeid" : 213,
+        "typename" : "活动专题"
+      }
+    ]
+  },
+  {
+    "fid" : 55,
+    "forum_name" : "萨摩耶俱乐部",
+    "typelist" : [
+      {
+        "typeid" : 59,
+        "typename" : "◆咨询求助"
+      },
+      {
+        "typeid" : 60,
+        "typename" : "◇爱宠图集"
+      },
+      {
+        "typeid" : 61,
+        "typename" : "◇经验分享"
+      },
+      {
+        "typeid" : 106,
+        "typename" : "◆版主公告"
+      },
+      {
+        "typeid" : 107,
+        "typename" : "◇七嘴八舌"
+      },
+      {
+        "typeid" : 1654,
+        "typename" : "◆快乐寄养"
+      },
+      {
+        "typeid" : 1437,
+        "typename" : "◆驯养课堂"
+      },
+      {
+        "typeid" : 1438,
+        "typename" : "◆我的DIY"
+      },
+      {
+        "typeid" : 1441,
+        "typename" : "◇活动报告"
+      }
+    ]
+  },
+  {
+    "fid" : 58,
+    "forum_name" : "哈士奇俱乐部",
+    "typelist" : [
+      {
+        "typeid" : 49,
+        "typename" : "版主公告"
+      },
+      {
+        "typeid" : 51,
+        "typename" : "咨询求助"
+      },
+      {
+        "typeid" : 56,
+        "typename" : "爱宠图集"
+      },
+      {
+        "typeid" : 64,
+        "typename" : "七嘴八舌"
+      },
+      {
+        "typeid" : 108,
+        "typename" : "经验分享"
+      },
+      {
+        "typeid" : 1653,
+        "typename" : "◆快乐寄养"
+      },
+      {
+        "typeid" : 1434,
+        "typename" : "驯养课堂"
+      },
+      {
+        "typeid" : 1435,
+        "typename" : "我的DIY"
+      },
+      {
+        "typeid" : 1436,
+        "typename" : "活动报告"
+      }
+    ]
+  },
+  {
+    "fid" : 3,
+    "forum_name" : "博美俱乐部",
+    "typelist" : [
+      {
+        "typeid" : 1660,
+        "typename" : "◆快乐寄养"
+      },
+      {
+        "typeid" : 330,
+        "typename" : "咨询求助"
+      },
+      {
+        "typeid" : 333,
+        "typename" : "爱宠图集"
+      },
+      {
+        "typeid" : 334,
+        "typename" : "七嘴八舌"
+      },
+      {
+        "typeid" : 331,
+        "typename" : "经验分享"
+      },
+      {
+        "typeid" : 1453,
+        "typename" : "我的DIY"
+      },
+      {
+        "typeid" : 1174,
+        "typename" : "活动报告"
+      },
+      {
+        "typeid" : 1569,
+        "typename" : "游戏娱乐"
+      },
+      {
+        "typeid" : 1575,
+        "typename" : "新宝宝报到"
+      },
+      {
+        "typeid" : 328,
+        "typename" : "版主公告"
+      }
+    ]
+  },
+  {
+    "fid" : 35,
+    "forum_name" : "四川狗民俱乐部",
+    "typelist" : [
+      {
+        "typeid" : 256,
+        "typename" : "◇经验浅谈"
+      },
+      {
+        "typeid" : 257,
+        "typename" : "◇家有爱宠"
+      },
+      {
+        "typeid" : 260,
+        "typename" : "◇七嘴八舌"
+      },
+      {
+        "typeid" : 430,
+        "typename" : "◇版务公告"
+      },
+      {
+        "typeid" : 431,
+        "typename" : "◇游山玩水"
+      },
+      {
+        "typeid" : 432,
+        "typename" : "◇新人报道"
+      },
+      {
+        "typeid" : 255,
+        "typename" : "◇同城互助"
+      },
+      {
+        "typeid" : 433,
+        "typename" : "◇每日报道"
+      }
+    ]
+  },
+  {
+    "fid" : 24,
+    "forum_name" : "广东狗民俱乐部",
+    "typelist" : [
+      {
+        "typeid" : 63,
+        "typename" : "聚会出游"
+      },
+      {
+        "typeid" : 69,
+        "typename" : "知识百科"
+      },
+      {
+        "typeid" : 70,
+        "typename" : "同城互助"
+      },
+      {
+        "typeid" : 92,
+        "typename" : "本地生活"
+      },
+      {
+        "typeid" : 1696,
+        "typename" : "◆快乐寄养"
+      },
+      {
+        "typeid" : 168,
+        "typename" : "新狗报道"
+      },
+      {
+        "typeid" : 170,
+        "typename" : "家有爱宠"
+      },
+      {
+        "typeid" : 943,
+        "typename" : "版务公告"
+      },
+      {
+        "typeid" : 1253,
+        "typename" : "休闲娱乐"
+      },
+      {
+        "typeid" : 1254,
+        "typename" : "活动报告"
+      },
+      {
+        "typeid" : 71,
+        "typename" : "寻狗启示"
+      }
+    ]
+  },
+  {
+    "fid" : 13,
+    "forum_name" : "玩转铃铛豆",
+    "typelist" : [
+      {
+        "typeid" : 422,
+        "typename" : "抽奖公告"
+      },
+      {
+        "typeid" : 423,
+        "typename" : "抽奖心得"
+      },
+      {
+        "typeid" : 424,
+        "typename" : "抽奖交流"
+      },
+      {
+        "typeid" : 425,
+        "typename" : "抽奖答疑"
+      },
+      {
+        "typeid" : 426,
+        "typename" : "抽奖其他话题"
+      }
+    ]
+  },
+  {
+    "fid" : 8,
+    "forum_name" : "上海狗民俱乐部",
+    "typelist" : [
+      {
+        "typeid" : 2,
+        "typename" : "版务公告"
+      },
+      {
+        "typeid" : 44,
+        "typename" : "家有爱宠"
+      },
+      {
+        "typeid" : 47,
+        "typename" : "娱乐休闲"
+      },
+      {
+        "typeid" : 48,
+        "typename" : "聚会出游"
+      },
+      {
+        "typeid" : 1589,
+        "typename" : "同城互助"
+      },
+      {
+        "typeid" : 67,
+        "typename" : "咨询求助"
+      },
+      {
+        "typeid" : 46,
+        "typename" : "宠物百科"
+      },
+      {
+        "typeid" : 1748,
+        "typename" : "版内活动"
+      },
+      {
+        "typeid" : 1749,
+        "typename" : "新人报到"
+      },
+      {
+        "typeid" : 1750,
+        "typename" : "心情日志"
+      }
+    ]
+  }
+]

@@ -1,0 +1,27 @@
+//
+//  PrefixHeader.pch
+//  customBtnView
+//
+//  Created by sincere on 16/1/7.
+//  Copyright © 2016年 sincere. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+
+#define AppColor  Color(245, 58, 64)
+
+#define margin 15
+// 屏幕的宽
+#define DDScreenW [UIScreen mainScreen].bounds.size.width
+// 屏幕的高
+#define DDScreenH [UIScreen mainScreen].bounds.size.height
+//RGB
+#define Color(r, g, b) [UIColor colorWithRed:(r)/255.0 green:(g)/255.0 blue:(b)/255.0 alpha:1.0]
+
+
+
+
+
+#endif /* PrefixHeader_pch */

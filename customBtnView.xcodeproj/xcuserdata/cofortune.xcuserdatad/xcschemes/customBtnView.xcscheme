@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "8EE340CE1C3E3AF700B6FF9F"
-               BuildableName = "customBtnView.app"
+               BuildableName = "CustomBtnView.temp_caseinsensitive_rename.app"
                BlueprintName = "customBtnView"
-               ReferencedContainer = "container:customBtnView.xcodeproj">
+               ReferencedContainer = "container:CustomBtnView.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "8EE340E71C3E3AF800B6FF9F"
-               BuildableName = "customBtnViewTests.xctest"
+               BuildableName = "CustomBtnView.temp_caseinsensitive_rename.xctest"
                BlueprintName = "customBtnViewTests"
-               ReferencedContainer = "container:customBtnView.xcodeproj">
+               ReferencedContainer = "container:CustomBtnView.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
@@ -43,9 +43,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "8EE340F21C3E3AF800B6FF9F"
-               BuildableName = "customBtnViewUITests.xctest"
+               BuildableName = "CustomBtnView.temp_caseinsensitive_rename.xctest"
                BlueprintName = "customBtnViewUITests"
-               ReferencedContainer = "container:customBtnView.xcodeproj">
+               ReferencedContainer = "container:CustomBtnView.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -53,9 +53,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "8EE340CE1C3E3AF700B6FF9F"
-            BuildableName = "customBtnView.app"
+            BuildableName = "CustomBtnView.temp_caseinsensitive_rename.app"
             BlueprintName = "customBtnView"
-            ReferencedContainer = "container:customBtnView.xcodeproj">
+            ReferencedContainer = "container:CustomBtnView.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -76,9 +76,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "8EE340CE1C3E3AF700B6FF9F"
-            BuildableName = "customBtnView.app"
+            BuildableName = "CustomBtnView.temp_caseinsensitive_rename.app"
             BlueprintName = "customBtnView"
-            ReferencedContainer = "container:customBtnView.xcodeproj">
+            ReferencedContainer = "container:CustomBtnView.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -95,9 +95,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "8EE340CE1C3E3AF700B6FF9F"
-            BuildableName = "customBtnView.app"
+            BuildableName = "CustomBtnView.temp_caseinsensitive_rename.app"
             BlueprintName = "customBtnView"
-            ReferencedContainer = "container:customBtnView.xcodeproj">
+            ReferencedContainer = "container:CustomBtnView.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

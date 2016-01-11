@@ -7,6 +7,13 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8EE034C51C3F9BEE00A27B62 /* NBTagButton.m in Sources */ = {isa = PBXBuildFile; fileRef = 8EE034C41C3F9BEE00A27B62 /* NBTagButton.m */; };
+		8EE034CA1C3F9DFB00A27B62 /* tagPlist.json in Resources */ = {isa = PBXBuildFile; fileRef = 8EE034C91C3F9DFB00A27B62 /* tagPlist.json */; };
+		8EE034CE1C3F9E7100A27B62 /* NBtpyeModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 8EE034CD1C3F9E7100A27B62 /* NBtpyeModel.m */; };
+		8EE034D11C3F9F9F00A27B62 /* NBDataSourceFactory.m in Sources */ = {isa = PBXBuildFile; fileRef = 8EE034D01C3F9F9F00A27B62 /* NBDataSourceFactory.m */; };
+		8EE034D41C3FA22100A27B62 /* NBTagView.m in Sources */ = {isa = PBXBuildFile; fileRef = 8EE034D31C3FA22100A27B62 /* NBTagView.m */; };
+		8EE034D71C3FA3BA00A27B62 /* NBTagViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8EE034D61C3FA3BA00A27B62 /* NBTagViewController.m */; };
+		8EE034DA1C3FAC1F00A27B62 /* NBRootTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 8EE034D91C3FAC1F00A27B62 /* NBRootTableViewCell.m */; };
 		8EE340D41C3E3AF700B6FF9F /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 8EE340D31C3E3AF700B6FF9F /* main.m */; };
 		8EE340D71C3E3AF700B6FF9F /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 8EE340D61C3E3AF700B6FF9F /* AppDelegate.m */; };
 		8EE340DA1C3E3AF700B6FF9F /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8EE340D91C3E3AF700B6FF9F /* ViewController.m */; };
@@ -15,6 +22,11 @@
 		8EE340E21C3E3AF700B6FF9F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8EE340E01C3E3AF700B6FF9F /* LaunchScreen.storyboard */; };
 		8EE340ED1C3E3AF800B6FF9F /* customBtnViewTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 8EE340EC1C3E3AF800B6FF9F /* customBtnViewTests.m */; };
 		8EE340F81C3E3AF800B6FF9F /* customBtnViewUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 8EE340F71C3E3AF800B6FF9F /* customBtnViewUITests.m */; };
+		8EE341071C3E3BD400B6FF9F /* UIView+Extension.m in Sources */ = {isa = PBXBuildFile; fileRef = 8EE341061C3E3BD400B6FF9F /* UIView+Extension.m */; };
+		8EE3410D1C3E3ED200B6FF9F /* CustomView.m in Sources */ = {isa = PBXBuildFile; fileRef = 8EE3410C1C3E3ED200B6FF9F /* CustomView.m */; };
+		8EE341101C3E4B1F00B6FF9F /* ShowCustomViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8EE3410F1C3E4B1F00B6FF9F /* ShowCustomViewController.m */; };
+		8EE341151C3E556B00B6FF9F /* berlin.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8EE341121C3E556B00B6FF9F /* berlin.jpg */; };
+		8EE341161C3E556B00B6FF9F /* CustomTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 8EE341141C3E556B00B6FF9F /* CustomTableViewCell.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -35,7 +47,20 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		8EE340CF1C3E3AF700B6FF9F /* customBtnView.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = customBtnView.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		8EE034C31C3F9BEE00A27B62 /* NBTagButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NBTagButton.h; sourceTree = "<group>"; };
+		8EE034C41C3F9BEE00A27B62 /* NBTagButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NBTagButton.m; sourceTree = "<group>"; };
+		8EE034C91C3F9DFB00A27B62 /* tagPlist.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = tagPlist.json; sourceTree = "<group>"; };
+		8EE034CC1C3F9E7100A27B62 /* NBtpyeModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NBtpyeModel.h; sourceTree = "<group>"; };
+		8EE034CD1C3F9E7100A27B62 /* NBtpyeModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NBtpyeModel.m; sourceTree = "<group>"; };
+		8EE034CF1C3F9F9F00A27B62 /* NBDataSourceFactory.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NBDataSourceFactory.h; sourceTree = "<group>"; };
+		8EE034D01C3F9F9F00A27B62 /* NBDataSourceFactory.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NBDataSourceFactory.m; sourceTree = "<group>"; };
+		8EE034D21C3FA22100A27B62 /* NBTagView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NBTagView.h; sourceTree = "<group>"; };
+		8EE034D31C3FA22100A27B62 /* NBTagView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NBTagView.m; sourceTree = "<group>"; };
+		8EE034D51C3FA3BA00A27B62 /* NBTagViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NBTagViewController.h; sourceTree = "<group>"; };
+		8EE034D61C3FA3BA00A27B62 /* NBTagViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NBTagViewController.m; sourceTree = "<group>"; };
+		8EE034D81C3FAC1F00A27B62 /* NBRootTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NBRootTableViewCell.h; sourceTree = "<group>"; };
+		8EE034D91C3FAC1F00A27B62 /* NBRootTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NBRootTableViewCell.m; sourceTree = "<group>"; };
+		8EE340CF1C3E3AF700B6FF9F /* CustomBtnView.temp_caseinsensitive_rename.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CustomBtnView.temp_caseinsensitive_rename.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8EE340D31C3E3AF700B6FF9F /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		8EE340D51C3E3AF700B6FF9F /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		8EE340D61C3E3AF700B6FF9F /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -45,12 +70,22 @@
 		8EE340DE1C3E3AF700B6FF9F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8EE340E11C3E3AF700B6FF9F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8EE340E31C3E3AF700B6FF9F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		8EE340E81C3E3AF800B6FF9F /* customBtnViewTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = customBtnViewTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		8EE340E81C3E3AF800B6FF9F /* CustomBtnView.temp_caseinsensitive_rename.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CustomBtnView.temp_caseinsensitive_rename.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8EE340EC1C3E3AF800B6FF9F /* customBtnViewTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = customBtnViewTests.m; sourceTree = "<group>"; };
 		8EE340EE1C3E3AF800B6FF9F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		8EE340F31C3E3AF800B6FF9F /* customBtnViewUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = customBtnViewUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		8EE340F31C3E3AF800B6FF9F /* CustomBtnView.temp_caseinsensitive_rename.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CustomBtnView.temp_caseinsensitive_rename.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8EE340F71C3E3AF800B6FF9F /* customBtnViewUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = customBtnViewUITests.m; sourceTree = "<group>"; };
 		8EE340F91C3E3AF800B6FF9F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8EE341051C3E3BD400B6FF9F /* UIView+Extension.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "UIView+Extension.h"; path = "customBtnView/UIView+Extension.h"; sourceTree = "<group>"; };
+		8EE341061C3E3BD400B6FF9F /* UIView+Extension.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = "UIView+Extension.m"; path = "customBtnView/UIView+Extension.m"; sourceTree = "<group>"; };
+		8EE341091C3E3D3F00B6FF9F /* PrefixHeader.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PrefixHeader.pch; sourceTree = "<group>"; };
+		8EE3410B1C3E3ED200B6FF9F /* CustomView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CustomView.h; sourceTree = "<group>"; };
+		8EE3410C1C3E3ED200B6FF9F /* CustomView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CustomView.m; sourceTree = "<group>"; };
+		8EE3410E1C3E4B1F00B6FF9F /* ShowCustomViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ShowCustomViewController.h; sourceTree = "<group>"; };
+		8EE3410F1C3E4B1F00B6FF9F /* ShowCustomViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ShowCustomViewController.m; sourceTree = "<group>"; };
+		8EE341121C3E556B00B6FF9F /* berlin.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = berlin.jpg; sourceTree = "<group>"; };
+		8EE341131C3E556B00B6FF9F /* CustomTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CustomTableViewCell.h; sourceTree = "<group>"; };
+		8EE341141C3E556B00B6FF9F /* CustomTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CustomTableViewCell.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -78,9 +113,39 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		8EE034C21C3F9AAC00A27B62 /* NBTagView */ = {
+			isa = PBXGroup;
+			children = (
+				8EE034D21C3FA22100A27B62 /* NBTagView.h */,
+				8EE034D31C3FA22100A27B62 /* NBTagView.m */,
+				8EE034C31C3F9BEE00A27B62 /* NBTagButton.h */,
+				8EE034C41C3F9BEE00A27B62 /* NBTagButton.m */,
+				8EE034D81C3FAC1F00A27B62 /* NBRootTableViewCell.h */,
+				8EE034D91C3FAC1F00A27B62 /* NBRootTableViewCell.m */,
+			);
+			name = NBTagView;
+			sourceTree = "<group>";
+		};
+		8EE034CB1C3F9E0F00A27B62 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				8EE034C91C3F9DFB00A27B62 /* tagPlist.json */,
+				8EE034CC1C3F9E7100A27B62 /* NBtpyeModel.h */,
+				8EE034CD1C3F9E7100A27B62 /* NBtpyeModel.m */,
+				8EE034CF1C3F9F9F00A27B62 /* NBDataSourceFactory.h */,
+				8EE034D01C3F9F9F00A27B62 /* NBDataSourceFactory.m */,
+			);
+			name = Model;
+			sourceTree = "<group>";
+		};
 		8EE340C61C3E3AF700B6FF9F = {
 			isa = PBXGroup;
 			children = (
+				8EE341111C3E556B00B6FF9F /* CustomCell */,
+				8EE034CB1C3F9E0F00A27B62 /* Model */,
+				8EE034C21C3F9AAC00A27B62 /* NBTagView */,
+				8EE3410A1C3E3E6900B6FF9F /* CustomView */,
+				8EE341081C3E3C2600B6FF9F /* Category */,
 				8EE340D11C3E3AF700B6FF9F /* customBtnView */,
 				8EE340EB1C3E3AF800B6FF9F /* customBtnViewTests */,
 				8EE340F61C3E3AF800B6FF9F /* customBtnViewUITests */,
@@ -91,9 +156,9 @@
 		8EE340D01C3E3AF700B6FF9F /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				8EE340CF1C3E3AF700B6FF9F /* customBtnView.app */,
-				8EE340E81C3E3AF800B6FF9F /* customBtnViewTests.xctest */,
-				8EE340F31C3E3AF800B6FF9F /* customBtnViewUITests.xctest */,
+				8EE340CF1C3E3AF700B6FF9F /* CustomBtnView.temp_caseinsensitive_rename.app */,
+				8EE340E81C3E3AF800B6FF9F /* CustomBtnView.temp_caseinsensitive_rename.xctest */,
+				8EE340F31C3E3AF800B6FF9F /* CustomBtnView.temp_caseinsensitive_rename.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -105,9 +170,14 @@
 				8EE340D61C3E3AF700B6FF9F /* AppDelegate.m */,
 				8EE340D81C3E3AF700B6FF9F /* ViewController.h */,
 				8EE340D91C3E3AF700B6FF9F /* ViewController.m */,
+				8EE3410E1C3E4B1F00B6FF9F /* ShowCustomViewController.h */,
+				8EE3410F1C3E4B1F00B6FF9F /* ShowCustomViewController.m */,
+				8EE034D51C3FA3BA00A27B62 /* NBTagViewController.h */,
+				8EE034D61C3FA3BA00A27B62 /* NBTagViewController.m */,
 				8EE340DB1C3E3AF700B6FF9F /* Main.storyboard */,
 				8EE340DE1C3E3AF700B6FF9F /* Assets.xcassets */,
 				8EE340E01C3E3AF700B6FF9F /* LaunchScreen.storyboard */,
+				8EE341091C3E3D3F00B6FF9F /* PrefixHeader.pch */,
 				8EE340E31C3E3AF700B6FF9F /* Info.plist */,
 				8EE340D21C3E3AF700B6FF9F /* Supporting Files */,
 			);
@@ -140,6 +210,34 @@
 			path = customBtnViewUITests;
 			sourceTree = "<group>";
 		};
+		8EE341081C3E3C2600B6FF9F /* Category */ = {
+			isa = PBXGroup;
+			children = (
+				8EE341051C3E3BD400B6FF9F /* UIView+Extension.h */,
+				8EE341061C3E3BD400B6FF9F /* UIView+Extension.m */,
+			);
+			name = Category;
+			sourceTree = "<group>";
+		};
+		8EE3410A1C3E3E6900B6FF9F /* CustomView */ = {
+			isa = PBXGroup;
+			children = (
+				8EE3410B1C3E3ED200B6FF9F /* CustomView.h */,
+				8EE3410C1C3E3ED200B6FF9F /* CustomView.m */,
+			);
+			name = CustomView;
+			sourceTree = "<group>";
+		};
+		8EE341111C3E556B00B6FF9F /* CustomCell */ = {
+			isa = PBXGroup;
+			children = (
+				8EE341121C3E556B00B6FF9F /* berlin.jpg */,
+				8EE341131C3E556B00B6FF9F /* CustomTableViewCell.h */,
+				8EE341141C3E556B00B6FF9F /* CustomTableViewCell.m */,
+			);
+			path = CustomCell;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -157,7 +255,7 @@
 			);
 			name = customBtnView;
 			productName = customBtnView;
-			productReference = 8EE340CF1C3E3AF700B6FF9F /* customBtnView.app */;
+			productReference = 8EE340CF1C3E3AF700B6FF9F /* CustomBtnView.temp_caseinsensitive_rename.app */;
 			productType = "com.apple.product-type.application";
 		};
 		8EE340E71C3E3AF800B6FF9F /* customBtnViewTests */ = {
@@ -175,7 +273,7 @@
 			);
 			name = customBtnViewTests;
 			productName = customBtnViewTests;
-			productReference = 8EE340E81C3E3AF800B6FF9F /* customBtnViewTests.xctest */;
+			productReference = 8EE340E81C3E3AF800B6FF9F /* CustomBtnView.temp_caseinsensitive_rename.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
 		8EE340F21C3E3AF800B6FF9F /* customBtnViewUITests */ = {
@@ -193,7 +291,7 @@
 			);
 			name = customBtnViewUITests;
 			productName = customBtnViewUITests;
-			productReference = 8EE340F31C3E3AF800B6FF9F /* customBtnViewUITests.xctest */;
+			productReference = 8EE340F31C3E3AF800B6FF9F /* CustomBtnView.temp_caseinsensitive_rename.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
@@ -218,7 +316,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 8EE340CA1C3E3AF700B6FF9F /* Build configuration list for PBXProject "customBtnView" */;
+			buildConfigurationList = 8EE340CA1C3E3AF700B6FF9F /* Build configuration list for PBXProject "CustomBtnView" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -243,7 +341,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8EE034CA1C3F9DFB00A27B62 /* tagPlist.json in Resources */,
 				8EE340E21C3E3AF700B6FF9F /* LaunchScreen.storyboard in Resources */,
+				8EE341151C3E556B00B6FF9F /* berlin.jpg in Resources */,
 				8EE340DF1C3E3AF700B6FF9F /* Assets.xcassets in Resources */,
 				8EE340DD1C3E3AF700B6FF9F /* Main.storyboard in Resources */,
 			);
@@ -270,9 +370,19 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8EE034C51C3F9BEE00A27B62 /* NBTagButton.m in Sources */,
+				8EE034D41C3FA22100A27B62 /* NBTagView.m in Sources */,
+				8EE341101C3E4B1F00B6FF9F /* ShowCustomViewController.m in Sources */,
+				8EE034CE1C3F9E7100A27B62 /* NBtpyeModel.m in Sources */,
+				8EE341161C3E556B00B6FF9F /* CustomTableViewCell.m in Sources */,
+				8EE3410D1C3E3ED200B6FF9F /* CustomView.m in Sources */,
 				8EE340DA1C3E3AF700B6FF9F /* ViewController.m in Sources */,
+				8EE034D71C3FA3BA00A27B62 /* NBTagViewController.m in Sources */,
 				8EE340D71C3E3AF700B6FF9F /* AppDelegate.m in Sources */,
+				8EE034D11C3F9F9F00A27B62 /* NBDataSourceFactory.m in Sources */,
+				8EE341071C3E3BD400B6FF9F /* UIView+Extension.m in Sources */,
 				8EE340D41C3E3AF700B6FF9F /* main.m in Sources */,
+				8EE034DA1C3FAC1F00A27B62 /* NBRootTableViewCell.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -413,10 +523,12 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = customBtnView/PrefixHeader.pch;
 				INFOPLIST_FILE = customBtnView/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.cofortune.www.customBtnView;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = CustomBtnView.temp_caseinsensitive_rename;
 			};
 			name = Debug;
 		};
@@ -424,10 +536,12 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = customBtnView/PrefixHeader.pch;
 				INFOPLIST_FILE = customBtnView/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.cofortune.www.customBtnView;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = CustomBtnView.temp_caseinsensitive_rename;
 			};
 			name = Release;
 		};
@@ -438,8 +552,8 @@
 				INFOPLIST_FILE = customBtnViewTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.cofortune.www.customBtnViewTests;
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/customBtnView.app/customBtnView";
+				PRODUCT_NAME = CustomBtnView.temp_caseinsensitive_rename;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/CustomBtnView.temp_caseinsensitive_rename.app/CustomBtnView.temp_caseinsensitive_rename";
 			};
 			name = Debug;
 		};
@@ -450,8 +564,8 @@
 				INFOPLIST_FILE = customBtnViewTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.cofortune.www.customBtnViewTests;
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/customBtnView.app/customBtnView";
+				PRODUCT_NAME = CustomBtnView.temp_caseinsensitive_rename;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/CustomBtnView.temp_caseinsensitive_rename.app/CustomBtnView.temp_caseinsensitive_rename";
 			};
 			name = Release;
 		};
@@ -461,7 +575,7 @@
 				INFOPLIST_FILE = customBtnViewUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.cofortune.www.customBtnViewUITests;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = CustomBtnView.temp_caseinsensitive_rename;
 				TEST_TARGET_NAME = customBtnView;
 				USES_XCTRUNNER = YES;
 			};
@@ -473,7 +587,7 @@
 				INFOPLIST_FILE = customBtnViewUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.cofortune.www.customBtnViewUITests;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = CustomBtnView.temp_caseinsensitive_rename;
 				TEST_TARGET_NAME = customBtnView;
 				USES_XCTRUNNER = YES;
 			};
@@ -482,7 +596,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		8EE340CA1C3E3AF700B6FF9F /* Build configuration list for PBXProject "customBtnView" */ = {
+		8EE340CA1C3E3AF700B6FF9F /* Build configuration list for PBXProject "CustomBtnView" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				8EE340FA1C3E3AF800B6FF9F /* Debug */,
@@ -498,6 +612,7 @@
 				8EE340FE1C3E3AF800B6FF9F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		8EE340FF1C3E3AF800B6FF9F /* Build configuration list for PBXNativeTarget "customBtnViewTests" */ = {
 			isa = XCConfigurationList;
@@ -506,6 +621,7 @@
 				8EE341011C3E3AF800B6FF9F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		8EE341021C3E3AF800B6FF9F /* Build configuration list for PBXNativeTarget "customBtnViewUITests" */ = {
 			isa = XCConfigurationList;
@@ -514,6 +630,7 @@
 				8EE341041C3E3AF800B6FF9F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
